@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "title": "crea una api rest con json-server en menos de 30 segundos",
+      "content": "Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi."
+    },
+    {
+      "id": 12,
+      "title": "Test",
+      "content": "Test"
+    },
+    {
+      "id": 13,
+      "title": "Victor Test 2",
+      "content": "Test Victor 2"
+    },
+    {
+      "id": 38,
+      "title": "Victor Test 4",
+      "content": "Test Victor 4"
+    },
+    {
+      "id": 39,
+      "title": "Victor Test 5",
+      "content": "Test Victor 5"
+    },
+    {
+      "id": 50,
+      "title": "Yan Test 3",
+      "content": "Test Yan 3"
+    }
+  ],
+  "comments": []
+}

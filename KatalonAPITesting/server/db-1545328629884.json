@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "crea una api rest con json-server en menos de 30 segundos",
+      "content": "Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi."
+    },
+    {
+      "id": 3,
+      "title": "crea una api rest con json-server en menos de 30 segundos",
+      "content": "Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi."
+    },
+    {
+      "id": 4,
+      "title": "crea una api rest con json-server en menos de 30 segundos",
+      "content": "Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi."
+    },
+    {
+      "id": 12,
+      "title": "Test",
+      "content": "Test"
+    },
+    {
+      "id": 13,
+      "title": "Victor Test 2",
+      "content": "Test Victor 2"
+    },
+    {
+      "id": 23,
+      "title": "Test2",
+      "content": "Test2"
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 35,
+      "title": "Victor Test 3",
+      "content": "Test Victor 3"
+    },
+    {
+      "id": 37,
+      "title": "Victor Test 4",
+      "content": "Test Victor 4"
+    },
+    {
+      "id": 38,
+      "title": "Victor Test 4",
+      "content": "Test Victor 4"
+    },
+    {
+      "id": 39,
+      "title": "Victor Test 5",
+      "content": "Test Victor 5"
+    },
+    {
+      "id": 40,
+      "title": "Victor Test 5",
+      "content": "Test Victor 5"
+    },
+    {
+      "id": 42,
+      "title": "Victor Test 5",
+      "content": "Test Victor 5"
+    }
+  ],
+  "comments": [
+    {
+      "id": 2,
+      "body": "crea una api rest con json-server en menos de 30 segundos",
+      "postId": "2"
+    },
+    {
+      "id": 3,
+      "body": "crea una api rest con json-server en menos de 30 segundos",
+      "postId": "3"
+    }
+  ]
+}
